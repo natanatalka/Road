@@ -1,18 +1,5 @@
 {
   "id": "__BASE__",
   "name": "Road",
-  "screens": [
-    {
-      "id": "Blank",
-      "name": "Blank",
-      "sourceScreenId": "Blank",
-      "sourceAppId": "default"
-    },
-    {
-      "id": "Blank1",
-      "name": "Blank1",
-      "sourceScreenId": "Blank",
-      "sourceAppId": "default"
-    }
-  ]
+  "screens": []
 }
