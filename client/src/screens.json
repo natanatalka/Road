@@ -7,6 +7,12 @@
       "name": "Blank",
       "sourceScreenId": "Blank",
       "sourceAppId": "default"
+    },
+    {
+      "id": "222",
+      "name": "222",
+      "sourceScreenId": "Login",
+      "sourceAppId": "default"
     }
   ]
 }
