@@ -2,14 +2,19 @@
 import { Page } from 'ionic-angular/navigation/nav-util';
 import { MenuComponent } from './menu/menu.component';
 import { Blank_PhonePortrait } from '../pages/Blank/PhonePortrait/Blank';
+import { 1 _PhonePortrait } from '../pages/1/PhonePortrait/1';
 export class Screens {
   static declarations: Page[] = [
     MenuComponent,
-    Blank_PhonePortrait
+    Blank_PhonePortrait,
+    1 _PhonePortrait
   ];
   static mapping = {
     'Blank': {
       PhonePortrait: Blank_PhonePortrait
+    },
+    '1': {
+      PhonePortrait: 1 _PhonePortrait
     }
   }
 }
